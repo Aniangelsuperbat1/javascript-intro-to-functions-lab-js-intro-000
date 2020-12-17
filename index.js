@@ -1,4 +1,7 @@
 function shout(string) {
   return string.toUpperCase()
-  return string.toLowerCase()
+}
+
+function shout(string) {
+    return string.toLowerCase()
 }
